@@ -53,7 +53,7 @@ function goToGreeting() {
   const kalimat = [
     `Halo, ${name}!`,
     "Senang kamu di sini 🤗",
-    "Buat kamu yang mungkin sedang lelah jadi segalanya untuk semua orang—puisi ini untukmu. Sebuah pengingat kecil bahwa dirimu juga butuh dicintai... oleh dirimu sendiri",
+    "Buat kamu yang mungkin sedang lelah jadi segalanya untuk semua orang, puisi ini untukmu. Sebuah pengingat kecil bahwa dirimu juga butuh dicintai... oleh dirimu sendiri",
     " ",
     "CERMIN",
     "Kulihat diriku di balik cermin,",
@@ -69,7 +69,7 @@ function goToGreeting() {
     "Aku belajar mencinta pelan-pelan,",
     "bukan untuk jadi yang sempurna,",
     "tapi jadi diriku yang paling jujur itu sudah luar biasa.",
-    `Terima Kasih ${name} karena telah berkunjung`,
+    `Terima Kasih ${name} karena telah berkunjung🙏🫡`,
   ];
 
   // Ketik semua kalimat
