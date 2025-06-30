@@ -56,7 +56,7 @@ function goToGreeting() {
     " ",
     "CERMIN",
     "Kulihat diriku di balik cermin,",
-    "mata letih, namun tetap bersinar."
+    "mata letih, namun tetap bersinar.",
     "Penuh cerita yang tak terdengar,",
     "namun tetap berdiri, tak pernah pudar.",
     " ",
