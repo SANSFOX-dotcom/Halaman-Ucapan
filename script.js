@@ -53,8 +53,21 @@ function goToGreeting() {
   const kalimat = [
     `Halo, ${name}!`,
     "Senang kamu di sini 🤗",
-    "Semoga harimu luar biasa menyenangkan 🎉",
-    "Tetap semangat dan tersenyum ya 😄"
+    " ",
+    "CERMIN",
+    "Kulihat diriku di balik cermin,",
+    "mata letih, namun tetap bersinar."
+    "Penuh cerita yang tak terdengar,",
+    "namun tetap berdiri, tak pernah pudar.",
+    " ",
+    "Dulu kuhujat tiap cela,",
+    "kini kucoba merangkai makna.",
+    "Bahwa indah bukan tanpa luka,",
+    "dan kuat bukan tanpa air mata.",
+    " ",
+    "Aku belajar mencinta pelan-pelan,",
+    "bukan untuk jadi yang sempurna,",
+    "tapi jadi diriku yang paling jujur itu sudah luar biasa.",
   ];
 
   // Ketik semua kalimat
