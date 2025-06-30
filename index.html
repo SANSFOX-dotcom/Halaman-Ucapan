@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ucapan Selamat</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css">
+</head>
+<body>
+  <!-- Halaman Welcome -->
+<section id="welcome-page" class="text-center mt-5">
+  <h1 id="typed-text" class="mb-3"></h1>
+  <input type="text" id="username" class="form-control mb-3 w-50 mx-auto" placeholder="Nama kamu..." />
+  <button onclick="goToGreeting()" class="btn btn-success">Next</button>
+</section>
+
+
+<!-- Halaman Ucapan -->
+<div class="layer2">
+  <section id="greeting-page" style="display: none;">
+    <div id="multi-text"></div>
+  </section>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
